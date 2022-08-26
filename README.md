@@ -1,0 +1,4 @@
+# FILTER-MODAL-DESIGN
+DESIGN WITH PURE HTML AND CSS 
+GOOD TO TEST YOUR HTML AND CSS KNOWLWDGE
+![Filter Modal UI Design](https://user-images.githubusercontent.com/80360666/186793420-d0f27206-29cf-4524-aee1-f0ca6ad646bd.png)
